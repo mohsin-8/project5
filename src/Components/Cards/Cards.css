@@ -1,0 +1,15 @@
+.card {
+  text-align: center !important;
+}
+
+.card-title {
+  font-weight: bold !important;
+}
+
+.card-img-top {
+  width: 180px !important;
+  padding: 20px !important;
+  display: inline-block !important;
+  /* text-align: center !important; */
+  /* align-items: center !important; */
+}

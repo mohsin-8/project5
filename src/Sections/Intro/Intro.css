@@ -1,0 +1,16 @@
+.background_img {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
+    url("../../images/background_img.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 100vh;
+}
+
+.intro {
+  color: #f9f9f9;
+}
+
+.intro > p > strong {
+  color: aqua;
+}

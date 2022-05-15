@@ -1,0 +1,12 @@
+.navbar {
+  border-bottom: 1px solid rgba(128, 128, 128, 0.438) !important;
+}
+
+.nav-item > .nav-link {
+  color: #f9f9f9 !important;
+  font-size: 18px !important;
+}
+
+.nav-item > .button {
+  color: #000 !important;
+}
